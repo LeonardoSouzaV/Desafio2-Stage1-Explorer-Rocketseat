@@ -1,11 +1,11 @@
-<h1 align="center"> Recriando Layout</h1>
+<h1 align="center"> Recreating Layout</h1>
 
-<p align="center">Desafio feito pela equipe de instrutores da Rocketseat para o curso EXPLORER, para maior entendimento e aplicação de HTML e CSS<br/>
+<p align="center">Challenge made by Rocketseat's team of instructors for the EXPLORER, for a better understanding and application of HTML and CSS<br/>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -15,33 +15,34 @@
 <br>
 
 <p align="center">
-  <img alt="Recriando Layout" src=".github\README 2.bmp" width="100%">
+  <img alt="Recreating Layout" src=".github\README 2.bmp" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - HTML e CSS
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O Recriando Layout foi desenvolvido para estudar e aplicar o conteudo sobre html e css apresentado no Nivel 1 do curso Explorer da Rocketseat. Entre os temas mais presentes estão:
+Recreating Layout was developed to study and apply the html and css content presented in Level 1 of Rocketseat's Explorer. Among the most common themes are:
 
-- Estruturando um projeto HTML;
-- Uso de tags HTML mais comuns;
-- Conceitos iniciais de CSS;
-- Posicionamento e alinhamento de elementos na tela;
-- Aplicando fontes customizadas;
-- Espaçamentos.
 
-## 🗒️ Licença
+--Structuring an HTML project;
+- Use of the most common HTML tags;
+- Initial concepts of CSS;
+- Positioning and alignment of elements on the screen;
+- Applying custom fonts;
+- Spacing.
 
-Esse projeto está sob a licença MIT.
+## 🗒️ License
+
+This project is licensed under the MIT license.
 
 ---
 
-Feito com ♥ by Rocketseat 👋 [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
 # Desafio2-Stage1-Explorer-Rocketseat
