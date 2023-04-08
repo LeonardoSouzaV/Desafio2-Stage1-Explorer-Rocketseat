@@ -45,4 +45,4 @@ This project is licensed under the MIT license.
 
 Made with ♥ by Rocketseat 👋 [Participe da nossa comunidade (pt-BR)!](https://discord.gg/rocketseat)
 
-# Desafio2-Stage1-Explorer-Rocketseat
+# Desafio2-Stage2-Explorer-Rocketseat
